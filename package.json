@@ -1,5 +1,5 @@
 {
-  "name": "as3445.github.io",
+  "name": "ajharris96.github.io",
   "version": "1.0.0",
   "description": "Resume",
   "main": "",
@@ -10,16 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/as3445/as3445.github.io.git"
+    "url": "git+https://ajharris96.github.io/ColinCascio/"
   },
   "keywords": [
     "resume"
   ],
-  "author": "Ankur Saxena",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/as3445/as3445.github.io/issues"
-  },
   "homepage": "https://as3445.github.io",
   "dependencies": {
     "jsonresume-theme-stackoverflow-plus": "^1.0.1",
